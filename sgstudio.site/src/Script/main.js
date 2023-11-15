@@ -111,8 +111,8 @@ const page = {
       <div class="home-box flex-column flex-md-row">
       <div class="profileM d-block d-md-none"></div>
         <div class="home-lightabout">
-          <h2>Syeif Sultoni Akbar</h2>
-          <p>BackEnd? or FrontEnd?, nope i'm All Role, yes i'm <b>FullStack</b>, I can do anything as long as there is a <b>Tutorial</b> or <b>Documentation</b>.</p>
+          <h2>AykunCraft</h2>
+          <p>BackEnd? or FrontEnd?, nope i'm All Role, yes i'm <b>FullStack</b>, I can do anything as long as there is a <b>Tutorial</b> or <b>Documentation?</b>.</p>
           <h5>Known As:</h5>
           <h4 class="rtext"><span id="rtext-value">Aykuncraft</span><span id="rtext-cursor" class="rtext-cursor-active">|</span></h4>
         </div>
@@ -123,7 +123,7 @@ const page = {
       <h3>{/slash indo/} <b>About Me</b> {/slash indo/}</h3>
       <div class="about-box" id="About-Box" style="opacity: 0; transform: translateY(65px);">
         <div class="profile d-none d-md-block"></div>
-        <p>Hello, let me introduce myself, my name is AykunCraft, I come from Jawa, precisely in the in Indonesia in the province of East Java. I have approximately 4 years experience in the world of coding and more than 5 years studying electronics and machines with my father. My hobby is studying logical things such as coding, electronics and science. I also like learning about computers and networking. I'm still relatively young, yes I'm 15 years old now in 2023. I'm a perfectionist, nice to meet you :)</p>
+        <p>Hello, let me introduce myself, my name is AykunCraft, I come from Jawa, precisely in the in Indonesia in the province of East Java. I have approximately 4 years experience in the world of coding and more than 5 years studying electronics and machines with my father. My hobby is studying logical things such as coding, electronics and science. I also like learning about computers and networking. I'm still relatively young, yes I'm 14 years old now in 2023. I'm a perfectionist, nice to meet you :)</p>
       </div>
     </div>`);
     pgfun.Add(`<div id="ExperincePG" class="thePG"></div><div id="Experince">
