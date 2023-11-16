@@ -112,7 +112,7 @@ const page = {
       <div class="profileM d-block d-md-none"></div>
         <div class="home-lightabout">
           <h2>AykunCraft</h2>
-          <p>BackEnd? or FrontEnd?, nope i'm All Role, yes i'm <b>FullStack</b>, I can do anything as long as there is a <b>Tutorial</b> or <b>Documentation?</b>.</p>
+          <p>Cooding or Games?, nope i'm All Role, yes i'm <b>ALL ROLE</b>, Ini adalah <b>Tutorial</b> or <b>Documentation?</b>.</p>
           <h5>Known As:</h5>
           <h4 class="rtext"><span id="rtext-value">Aykuncraft</span><span id="rtext-cursor" class="rtext-cursor-active">|</span></h4>
         </div>
